@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @longvuwee
-- 👀 I’m interested in improving my C++, HTML, and CSS skills
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in improving my ReactJS, Python, and CSS skills
 - 📫 How to reach me: longvu1274@gmail.com
 - Visit my website https://portfolio-iota-three-40.vercel.app/
 <!---
